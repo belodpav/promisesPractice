@@ -1,0 +1,68 @@
+{
+  "login": "kitty",
+  "name": "Tom Walker",
+  "about": "bla bla bla...",
+  "avatarUrl": "http://via.placeholder.com/120x120",
+  "photos": [
+    {
+      "title": "Me and my friends",
+      "url": "//loremflickr.com/600/600/kitten?1"
+    },
+    {
+      "title": "I am walking around",
+      "url": "//loremflickr.com/600/600/kitten?2"
+    },
+    {
+      "title": "Just have breakfast",
+      "url": "//loremflickr.com/600/600/kitten?3"
+    },
+    {
+      "title": "Me and my friends",
+      "url": "//loremflickr.com/600/600/kitten?4"
+    },
+    {
+      "title": "I am walking around",
+      "url": "//loremflickr.com/600/600/kitten?5"
+    },
+    {
+      "title": "Just have breakfast",
+      "url": "//loremflickr.com/600/600/kitten?6"
+    },
+    {
+      "title": "Me and my friends",
+      "url": "//loremflickr.com/600/600/kitten?7"
+    },
+    {
+      "title": "I am walking around",
+      "url": "//loremflickr.com/600/600/kitten?8"
+    },
+    {
+      "title": "Just have breakfast",
+      "url": "//loremflickr.com/600/600/kitten?9"
+    },
+    {
+      "title": "Me and my friends",
+      "url": "//loremflickr.com/600/600/kitten10?"
+    },
+    {
+      "title": "I am walking around",
+      "url": "//loremflickr.com/600/600/kitten?11"
+    },
+    {
+      "title": "Just have breakfast",
+      "url": "//loremflickr.com/600/600/kitten?12"
+    },
+    {
+      "title": "Me and my friends",
+      "url": "//loremflickr.com/600/600/kitten?13"
+    },
+    {
+      "title": "I am walking around",
+      "url": "//loremflickr.com/600/600/kitten?14"
+    },
+    {
+      "title": "Just have breakfast",
+      "url": "//loremflickr.com/600/600/kitten?15"
+    }
+  ]
+ }
